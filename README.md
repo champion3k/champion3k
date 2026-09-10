@@ -1,23 +1,19 @@
 <h1 align="center">🐉 champion3k / experienced coder </h1>
-<div id="header" align="center">
-<div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/88992124-610e-4aaa-9db6-cfdf5e9f74bc" alt="GitHub Image">
-</div>
+
+ <div id="header" align="center">
+  <img src="https://i.imgur.com/lGM5GUZ.gif" alt="Лелуш GIF" width="600">
+
   
-⚙️ **I write C#** | **I share with everyone**  
+⚙️ **I write C#** **I share with everyone**  
 🌿 **Fueled by curiosity and questions**  
 🎨 **Debugger by day, artist by night**  
 🧱 **Building what I once searched for**  
 
 <div align="center">
 
-[![Arch](https://img.shields.io/badge/Arch_Linux-121212?style=for-the-badge&logo=arch-linux&logoColor=7B68EE)](https://archlinux.org/)
+[![Arch](https://img.shields.io/badge/Twitch-121212?style=for-the-badge&logo=Twitch&logoColor=7B68EE)](https://www.twitch.tv/squimen)
 [![macOS](https://img.shields.io/badge/macOS-121212?style=for-the-badge&logo=apple&logoColor=7B68EE)](https://www.apple.com/macos)
-[![JetBrains](https://img.shields.io/badge/JetBrains-121212?style=for-the-badge&logo=jetbrains&logoColor=7B68EE)](https://www.jetbrains.com)
-[![Vim](https://img.shields.io/badge/Vim-121212?style=for-the-badge&logo=vim&logoColor=7B68EE)](https://www.vim.org/)
-[![Fastfetch](https://img.shields.io/badge/Fastfetch-121212?style=for-the-badge&logo=linux&logoColor=7B68EE)](https://github.com/fastfetch-cli/fastfetch)
-[![Zen](https://img.shields.io/badge/Zen_Browser-121212?style=for-the-badge&logo=firefox&logoColor=7B68EE)](https://zen-browser.app/)
-
+[![macOS](https://img.shields.io/badge/YouTube-121212?style=for-the-badge&logo=YouTube&logoColor=7B68EE)](https://www.youtube.com/@champion3k_tech)
 ###
 
 <div align="center">
