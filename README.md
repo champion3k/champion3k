@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Arch](https://img.shields.io/badge/Twitch-121212?style=for-the-badge&logo=Twitch&logoColor=7B68EE)](https://www.twitch.tv/squimen)
+[![Arch](https://img.shields.io/badge/Twitch-121212?style=for-the-badge&logo=Twitch&logoColor=7B68EE)](https://www.twitch.tv/champion3k_tech)
 [![macOS](https://img.shields.io/badge/macOS-121212?style=for-the-badge&logo=apple&logoColor=7B68EE)](https://www.apple.com/macos)
 [![macOS](https://img.shields.io/badge/YouTube-121212?style=for-the-badge&logo=YouTube&logoColor=7B68EE)](https://www.youtube.com/@champion3k_tech)
 ###
