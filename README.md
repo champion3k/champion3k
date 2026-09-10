@@ -24,18 +24,5 @@
 
 ###
 
-<p align="center">
+![snake gif](https://github.com/champion3k/champion3k/blob/output/github-contribution-grid-snake.svg)
 
-###
-
-<p align="center">
- 
-</p>
-
-###
-
-<p align="center">
-  <picture>
-    
-  </picture>
-</p>
